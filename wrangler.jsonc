@@ -1,0 +1,6 @@
+{
+  "name": "mest-pimpade-epa",
+  "main": "worker.js",
+  "compatibility_date": "2025-05-01",
+  "observability": { "enabled": true }
+}
