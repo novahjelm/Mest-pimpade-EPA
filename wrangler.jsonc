@@ -2,5 +2,15 @@
   "name": "mest-pimpade-epa",
   "main": "worker.js",
   "compatibility_date": "2025-05-01",
-  "observability": { "enabled": true }
+  "observability": {
+    "enabled": true
+  },
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_name": "mest-pimpade-epa-db",
+      "database_id": "77dcb0b6-8f1a-49ae-a11d-d97168963901"
+    }
+  ]
 }
+  
